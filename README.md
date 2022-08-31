@@ -1,30 +1,88 @@
-# web-developer-challenge
+<h1 align="center">Web Developer Challenge</h1>
 
-Olá!
+<p align="center">Esta página contém uma lista de posts com a possíbilidade de adicionar e remover. Cada post contém nome, mensagem e foto.</p>
 
-Este desafio consiste em identificar seu conhecimento em desenvolvimento Web, portanto esperamos que você tente resolve-lo usando toda a sua capacidade e conhecimento da tecnologia.
+---
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React + Vite</a>
+</h1>
+<p align="center">🚀 lib otimizada para construir interfaces do usuário com componentes reutilizáveis</p>
 
-O Desafio é o seguinte:
+<p align="center">
+ <img align="center" src='https://img.shields.io/badge/npm-8.5.5-blue.svg' />
+ <img align="center" src='https://img.shields.io/badge/node-16.15.0-green.svg' />
+</p>
 
-Monte uma página utilizando React.js que contenha uma lista de posts com a possíbilidade de adicionar e remover. Cada post deve conter nome, mensagem e foto. Não é necessário fazer o Back-End, os dados podem estar apenas em tempo de execução no Front-End.
+Índice
+======
 
-**Projetos que encontramos Typescript, Styled Compoments, Responsividade, terão pontos adicionais!**
+<!--ts-->
+   * [Deploy](#deploy)
+   * [Instalação](#instalacao)
+   * [Scripts](#scripts)
+      * [Iniciar aplicativo](#iniciar-aplicativo)
+      * [Build](#build)
+      * [Preview da aplicação](#preview-da-aplicacao)
+   * [Tecnologias](#Tecnologias)
+<!--te-->
 
-Tente colocar ao máximo todos os recursos técnicos que você conhece, padrão de arquitetura, boas práticas de código, bibliotecas, etc.
+</br>
 
-Você deve fazer um Fork deste repositório e solicitar um Pull Request com seu nome, email e celular na descrição para nossa avaliação e contato.
+---
 
-Abaixo segue o link do XD com protótipo navegável para conhecer a dinâmica da interface e os dados para Logar no Zeplin para ter acesso ao Design com suas medidas.
+Deploy
+======
+
+https://leandrochs.github.io/web-developer-challenge/
+
+---
+
+Instalação
+==========
+
+###### Linux
+
+Instalação de dependências
+```bash
+npm install
+```
+
+---
+
+Scripts
+==========
+
+- Iniciar aplicativo
+```bash
+npm start
+```
 
 
-## Interface XD
-https://adobe.ly/2BVcy5C
+- Build
+```bash
+npm run build
+```
 
-## Design - Zeplin
-https://app.zeplin.io/login
+- Preview da aplicação
+```bash
+npm run preview
+```
+---
 
-E-mail - buildbox.guest@gmail.com
+Tecnologias
+===========
 
-Senha - JhZ5dAPG
 
-![footer](https://cdn-images-1.medium.com/max/2600/1*_DOHv30w-0eI-Ysz5U47Yg.png)
+- React
+- Vite
+- Styled-componentes
+- Typescript
+
+---
+
+
+Nome: Leandro Chagas da Silva
+email: leandrochagask@gmail.com
+Telefone: (11) 95639-1206
+
+---

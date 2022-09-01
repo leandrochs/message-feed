@@ -1,10 +1,10 @@
-<h1 align="center">Web Developer Challenge</h1>
+<h1 align="center">Feed de Mensagens</h1>
 
 <p align="center">Esta página contém uma lista de posts com a possíbilidade de adicionar e remover. Cada post contém nome, mensagem e foto.</p>
 
----
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React + Vite</a>
+    <a href="https://pt-br.reactjs.org/">🔗 React </a>
+    <a href="https://vitejs.dev/"> + Vite</a>
 </h1>
 <p align="center">🚀 lib otimizada para construir interfaces do usuário com componentes reutilizáveis</p>
 
@@ -33,7 +33,7 @@
 Deploy
 ======
 
-https://leandrochs.github.io/web-developer-challenge/
+https://leandrochs.github.io/message-feed/
 
 ---
 
@@ -75,14 +75,7 @@ Tecnologias
 
 - React
 - Vite
-- Styled-componentes
 - Typescript
-
----
-
-
-Nome: Leandro Chagas da Silva
-email: leandrochagask@gmail.com
-Telefone: (11) 95639-1206
+- Styled-componentes
 
 ---

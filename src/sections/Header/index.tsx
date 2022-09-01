@@ -1,5 +1,5 @@
 import * as S from './styles';
-import logo from '../../assets/logoBuildBox.png';
+import logo from '../../assets/logoFeed.png';
 
 export function Header() {
   return (
